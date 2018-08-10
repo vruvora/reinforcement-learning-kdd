@@ -1,6 +1,10 @@
+box2d-py
+gym[atari]
 pandas
 ray
- 
+tensorflow
+torch
+torchvision
 
 # dev 
 pip-tools
