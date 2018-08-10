@@ -6,7 +6,6 @@
 #
 absl-py==0.3.0            # via tensorflow
 astor==0.7.1              # via tensorflow
-atari-py==0.1.1           # via gym
 atomicwrites==1.1.5       # via pytest
 attrs==18.1.0             # via pytest
 box2d-py==2.3.4
@@ -20,20 +19,19 @@ funcsigs==1.0.2           # via ray
 future==0.16.0            # via pyglet
 gast==0.2.0               # via tensorflow
 grpcio==1.14.1            # via tensorflow
-gym[atari]==0.10.5
+gym==0.10.5
 idna==2.7                 # via requests
 markdown==2.6.11          # via tensorboard
 more-itertools==4.3.0     # via pytest
-numpy==1.14.5             # via atari-py, gym, pandas, ray, tensorboard, tensorflow, torchvision
+numpy==1.14.5             # via gym, pandas, ray, tensorboard, tensorflow, torchvision
 pandas==0.23.4
-pillow==5.2.0             # via gym, torchvision
+pillow==5.2.0             # via torchvision
 pip-tools==2.0.2
 pluggy==0.7.1             # via pytest
 protobuf==3.6.0           # via tensorboard, tensorflow
 psutil==5.4.6             # via ray
 py==1.5.4                 # via pytest
 pyglet==1.3.2             # via gym
-pyopengl==3.1.0           # via gym
 pytest==3.7.1             # via ray
 python-dateutil==2.7.3    # via pandas
 pytz==2018.5              # via pandas
@@ -41,7 +39,7 @@ pyyaml==3.13              # via ray
 ray==0.5.0
 redis==2.10.6             # via ray
 requests==2.19.1          # via gym
-six==1.11.0               # via absl-py, atari-py, grpcio, gym, more-itertools, pip-tools, protobuf, pytest, python-dateutil, ray, tensorboard, tensorflow, torchvision
+six==1.11.0               # via absl-py, grpcio, gym, more-itertools, pip-tools, protobuf, pytest, python-dateutil, ray, tensorboard, tensorflow, torchvision
 tensorboard==1.10.0       # via tensorflow
 tensorflow==1.10.0
 termcolor==1.1.0          # via tensorflow

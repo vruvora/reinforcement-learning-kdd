@@ -1,5 +1,5 @@
 box2d-py
-gym[atari]
+gym
 pandas
 ray
 tensorflow
