@@ -1,7 +1,7 @@
 box2d-py
-gym
+gym[atari]
 pandas
-ray
+ray[rllib]
 tensorflow
 torch
 torchvision
