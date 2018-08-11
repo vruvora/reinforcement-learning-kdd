@@ -4,7 +4,9 @@
 
 # Table of Contents
 - [Overview](#overview)
-- [Enviornments](#enviornments We Will Solve)
+- [Enviornments](#enviornments)
+- [Outline](#contents)
+- [Installation](#install)
 
 
 ## Overview 
@@ -15,7 +17,7 @@ Reinforcement Learning is the _computational_ approach to learning from interact
 
 We believe that RL works well on applied problems where: 1.) Gathering simulations and experience is cheap, e.g. games, narrow-domain robotics; 2.) Modelers have access to a compact representation of the enviornment dynamics to apply approximate dynamic programming. During the tutorial, we will also deep-dive into practical applications of RL such as [optimizing tax collections with constrained value iteration](https://www.youtube.com/watch?v=bLsCuN6PQCE), [predicting market micro-structure for better trade execution](https://www.seas.upenn.edu/~mkearns/papers/rlexec.pdf), and others alike. 
 
-## Enviornments We Will Solve
+## Enviornments
 
 While portions of the tutorial will focus on conceptual foundations and applied case studies, we will do hands-on implementations of the algorithms on standard Reinforcement Learning environments for debugging and pedagogical purposes. 
 
@@ -27,10 +29,8 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 | [Mountain Car with Continuous Action Space](https://github.com/openai/gym/wiki/MountainCarContinuous-v0)| ![Continuous Mount Car](https://media.giphy.com/media/czMcAThaMUDi244p5R/giphy.gif)| 
 
 
-## Tutorial Outline 
+<h2 id='contents'> Outline   </h2>
 
 
-## Installation Instructions 
-
-## Pre-requisites
+<h2 id='install'> Installation & Prerequisites </h2>
 
