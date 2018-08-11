@@ -8,7 +8,20 @@ Reinforcement Learning is the _computational_ approach to learning from interact
 > - Provide a solid conceptual foundation for understanding and evaluating existing state of the art RL methods (both strengths and weaknesses).
 > - Showcase Ray, an emerging distributed excution framework, for experimenting with and deploying large-scale Reinforcement Learning algorithms. 
 
-We believe that RL works well on applied problems where: 1.) Gathering simulations and experience is cheap, e.g. games, narrow -domain robotics; 2.) Modelers have access to a compact representation of the enviornment dynamics. During the tutorial, we will also deep-dive into practical applications of RL such as [optimizing tax collections with constrained value iteration](https://www.youtube.com/watch?v=bLsCuN6PQCE), [predicting market micro-structure for better trade execution] (https://www.seas.upenn.edu/~mkearns/papers/rlexec.pdf), and others alike. 
+We believe that RL works well on applied problems where: 1.) Gathering simulations and experience is cheap, e.g. games, narrow -domain robotics; 2.) Modelers have access to a compact representation of the enviornment dynamics. During the tutorial, we will also deep-dive into practical applications of RL such as [optimizing tax collections with constrained value iteration](https://www.youtube.com/watch?v=bLsCuN6PQCE), [predicting market micro-structure for better trade execution](https://www.seas.upenn.edu/~mkearns/papers/rlexec.pdf), and others alike. 
+
+## Enviornments We Will Solve
+
+| Enviornment  | Random Agent |
+| ------------- |------------- |
+| [Cart Pole](https://github.com/openai/gym/wiki/CartPole-v0) | ![Cart Pole](https://media.giphy.com/media/69pvRfohiQMSWzjn9A/giphy.gif)| 
+| [Pong](https://github.com/openai/gym/wiki/Leaderboard#pong-v0) | ![Pong](https://media.giphy.com/media/B1EfqKz0VjkZq4ZPRr/giphy.gif)| 
+| [Lunar Lander](https://github.com/openai/gym/wiki/Leaderboard#pong-v0) | ![Lunar Lander](https://media.giphy.com/media/1xNT1jP81eiLtkiWuI/giphy.gif)| 
+| [Mountain Car with Continuous Action Space](https://github.com/openai/gym/wiki/MountainCarContinuous-v0)| ![Continuous Mount Car](https://media.giphy.com/media/czMcAThaMUDi244p5R/giphy.gif)| 
+
+
+
+
 
 
 ## Tutorial Outline 
