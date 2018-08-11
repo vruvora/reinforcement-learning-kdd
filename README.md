@@ -3,11 +3,8 @@
 > - Sebastien Zany, Applied Mathematician, Theil Fellow, seb@stien.io
 
 # Table of Contents
-- [Overview](#Overview)
-- [Enviornments](#Enviornments We Will Solve)
-- [Tutorial Outline](#Tutorial Outline)
-- [Installation Instruction](#Installation Instructions)
-- [Pre-requisites](#Pre-requisites)
+- [Overview](#overview)
+- [Enviornments](#enviornments We Will Solve)
 
 
 ## Overview 
