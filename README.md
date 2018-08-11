@@ -1,8 +1,14 @@
 # Introduction to Reinforcement Learning at KDD 2018
-- Vrushank Vora, [Founder, Papert Labs Inc.](https://www.papertlabs.com/), vvora@papertlabs.com
-- Sebastien Zany, Applied Mathematician, Theil Fellow, seb@stien.io
+> - Vrushank Vora, [Founder, Papert Labs Inc.](https://www.papertlabs.com/), vvora@papertlabs.com
+> - Sebastien Zany, Applied Mathematician, Theil Fellow, seb@stien.io
 
-- [Overview](#overview)
+# Table of Contents
+- [Overview](#Overview)
+- [Enviornments](#Enviornments We Will Solve)
+- [Tutorial Outline](#Tutorial Outline)
+- [Installation Instruction](#Installation Instructions)
+- [Pre-requisites](#Pre-requisites)
+
 
 ## Overview 
 Reinforcement Learning is the _computational_ approach to learning from interaction (Sutton & Barto). Autonomous agents performing goal-oriented learning based on experience is the holy-grail of AI. Recent successes of Reinforcement Learning algorithms include [human-level performance on many Atari games](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf), [beating world's best Go player](https://en.wikipedia.org/wiki/AlphaZero), and robots learning [dexterity](https://blog.openai.com/learning-dexterity/) and [grasping](https://arxiv.org/abs/1806.10293). Despite these successes, industrial applications of RL outside of organizations with easy access to large-scale compute and software infrastructure remain sparse. Wide-spread applications of RL require more sample efficient algorithms and new software tools for doing distributed computing. Our goal with this tutorial is two-fold: 
@@ -28,4 +34,6 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 
 
 ## Installation Instructions 
+
+## Pre-requisites
 
