@@ -46,6 +46,7 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 
 <h2 id='install'> Installation & Prerequisites </h2>
 ### Installation
+
 - Create a directory for `rl-kdd`.
 - `cd` into your `rl-kdd` directory. Create a `virtualenv` associated with the tutorial. Checkout more detailed instructions for OS specific `virtualenv` creation [here](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/).
 - Activate the previously created `virtualenv`. 
