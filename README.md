@@ -29,7 +29,20 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 | [Mountain Car with Continuous Action Space](https://github.com/openai/gym/wiki/MountainCarContinuous-v0)| ![Continuous Mount Car](https://media.giphy.com/media/czMcAThaMUDi244p5R/giphy.gif)| 
 
 
-<h2 id='contents'> Outline   </h2>
+<h2 id='contents'> Outline</h2>
+# Table of Contents 
+
+| Topic  | Slides | Code | Estimated Time |
+| ------------- | ------------- | ------------ | ------------- |
+| Introduction to Reinforcement Learning: Markov Decison Processes, Planning by Dynamic Programming, and TD Learning| Coming Soon | Coming Soon | 30-45 Minutes
+| Introduction to Ray: Distributed Framework for Emerging RL Applications  | Coming Soon | Coming Soon | 30-60 Minutes
+| Q-Learning and Function Approximation | Coming Soon | Coming Soon | 45-60 Minutes
+| Policy Gradient Methods | Coming Soon | Coming Soon | 45-60 Minutes
+| Actor Critic Methods | Coming Soon | Coming Soon | 30-45 Minutes
+| Proximal Policy Optimization | Coming Soon | Coming Soon | 30-45 Minutes
+| **Bonus**: AlphaZero Code Along | Coming Soon | Coming Soon | Time Permitting
+| **Bonus**: Reinforcement Learning for Trading Cryptocurrencies | Coming Soon | Coming Soon | Time Permitting
+
 
 
 <h2 id='install'> Installation & Prerequisites </h2>
