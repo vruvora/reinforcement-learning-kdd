@@ -40,7 +40,7 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 | Actor Critic Methods | Coming Soon | Coming Soon | 30-45 Minutes
 | Proximal Policy Optimization | Coming Soon | Coming Soon | 30-45 Minutes
 | **Bonus**: AlphaZero Code Along | Coming Soon | Coming Soon | Time Permitting
-| **Bonus**: Reinforcement Learning for Trading Cryptocurrencies | Coming Soon | Coming Soon | Time Permitting
+| **Bonus**: Reinforcement Learning in Finance | Coming Soon | Coming Soon | Time Permitting
 
 
 
