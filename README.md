@@ -30,8 +30,6 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 
 
 <h2 id='contents'> Outline</h2>
-# Table of Contents 
-
 | Topic  | Slides | Code | Estimated Time |
 | ------------- | ------------- | ------------ | ------------- |
 | Introduction to Reinforcement Learning: Markov Decison Processes, Planning by Dynamic Programming, and TD Learning| Coming Soon | Coming Soon | 30-45 Minutes
