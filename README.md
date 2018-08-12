@@ -45,6 +45,7 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 
 
 <h2 id='install'> Installation & Prerequisites </h2>
+
 ### Installation
 
 - Create a directory for `rl-kdd`.
