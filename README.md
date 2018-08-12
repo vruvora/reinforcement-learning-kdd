@@ -47,15 +47,16 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 <h2 id='install'> Installation & Prerequisites </h2>
 
 ### Installation
-
-- Create a directory for `rl-kdd`.
+- Create a directory for this workshop with `mkdir rl-kdd`.
 - `cd` into your `rl-kdd` directory. Create a `virtualenv` associated with the tutorial. Checkout more detailed instructions for OS specific `virtualenv` creation [here](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/).
 - Activate the previously created `virtualenv`. 
 - Clone this [repo](https://github.com/vruvora/reinforcement-learning-kdd.git).
-- While the `virtualenv` is active, `pip install -r requirements.in` to download the associated packages. 
+- `cd` into the cloned repo. While the `virtualenv` is active, `pip install -r requirements.in` to download the associated packages. 
 - Test installation works properly by: 
   - Running `python tests/random_agent.py`. 
   - Running `python tests/rllib_test.py`. 
   
+Side Note: Make sure you are using `python 3.6.4`
+
 ### Prerequisites 
 This tutorial will require a solid foundations in Machine Learning, Python Programming, and basic familiarity with popular Deep Learning frameworks like Tensorflow and Torch. 
