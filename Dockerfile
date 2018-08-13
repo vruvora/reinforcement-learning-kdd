@@ -1,5 +1,5 @@
 # -*- mode: Dockerfile -*-
-FROM python:3.6.4
+FROM ubuntu:16.04
 
 WORKDIR /usr/src/app
 
