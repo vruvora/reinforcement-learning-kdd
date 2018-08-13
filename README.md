@@ -51,6 +51,7 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 - Activate the previously created `virtualenv`. 
 - Clone this [repo](https://github.com/vruvora/reinforcement-learning-kdd.git).
 - `cd` into the cloned repo. While the `virtualenv` is active, `pip install -r requirements.in` to download the associated packages. 
+  - If you are having issues with `gym[atari]` installation, make sure you have the following [dependencies](https://github.com/openai/gym#installing-everything). 
 - Test installation works properly by: 
   - Running `python tests/random_agent.py`. 
   - Running `python tests/rllib_test.py`. 
