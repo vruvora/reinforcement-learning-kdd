@@ -1,6 +1,6 @@
 # Introduction to Reinforcement Learning at KDD 2018
-> - Vrushank Vora, [Founder, Papert Labs Inc.](https://www.papertlabs.com/), vvora@papertlabs.com
-> - Sebastien Zany, Applied Mathematician, Theil Fellow, seb@stien.io
+> - Vrushank Vora
+> - Sebastien Zany
 
 # Table of Contents
 - [Overview](#overview)
