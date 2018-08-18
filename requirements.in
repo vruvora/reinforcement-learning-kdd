@@ -1,5 +1,6 @@
 box2d-py
 gym[atari]
+jupyter
 pandas
 ray[rllib]
 tensorflow
