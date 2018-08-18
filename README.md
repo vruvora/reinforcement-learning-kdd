@@ -1,6 +1,4 @@
 # Introduction to Reinforcement Learning at KDD 2018
-> - Vrushank Vora
-> - Sebastien Zany
 
 # Table of Contents
 - [Overview](#overview)
