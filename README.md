@@ -29,14 +29,14 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 
 <h2 id='contents'> Outline</h2>
 
-| Topic  | Slides | Code | Estimated Time |
+| Topic / Slides  | Code Along | Case Study | Estimated Time |
 | ------------- | ------------- | ------------ | ------------- |
-| Introduction to Reinforcement Learning: Markov Decison Processes, Planning by Dynamic Programming, and TD Learning| Coming Soon | Coming Soon | 30-45 Minutes
-| Introduction to Ray: Distributed Framework for Emerging RL Applications  | Coming Soon | Coming Soon | 30-60 Minutes
-| Q-Learning and Function Approximation | Coming Soon | Coming Soon | 45-60 Minutes
-| Policy Gradient Methods | Coming Soon | Coming Soon | 45-60 Minutes
-| Actor Critic Methods | Coming Soon | Coming Soon | 30-45 Minutes
-| Proximal Policy Optimization | Coming Soon | Coming Soon | 30-45 Minutes
+| [Markov Decision Processes & Planning Algorithms] (https://www.beautiful.ai/deck/-LJzCol9u_Me_W4MC-8C/Introduction-to-RL)  | | [Implementing Value and Policy Iteration] (https://github.com/vruvora/reinforcement-learning-kdd/blob/master/lesson-1-introduction-to-reinforcement-learning/planning-code-along-solution.ipynb) | [Optimizing Tax Collections to Save NY State Government $120-$150M over 3 Years] (https://www.prem-melville.com/publications/constrained-reinforcement-learning-kdd2010.pdf) 60 Minutes
+| Model Free Methods: Q-Learning  | Coming Soon | Accelerating Photosynthesis, Optimizing Database Joins| 60 Minutes
+| Model Free Methods: Policy Gradients | Coming Soon | Coming Soon | 60 Minutes
+| Model Free Methods: PPO & A3C | Coming Soon | [Deep reinforcement learning for de novo drug design
+](http://advances.sciencemag.org/content/4/7/eaap7885) | 40 Minutes
+| Introduction to Ray & RLLib | Coming Soon | Coming Soon | 60-90 Minutes
 | **Bonus**: AlphaZero Code Along | Coming Soon | Coming Soon | Time Permitting
 
 
