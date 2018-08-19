@@ -19,14 +19,6 @@ We believe that RL works well on applied problems where: 1.) Gathering simulatio
 
 While portions of the tutorial will focus on conceptual foundations and applied case studies, we will do hands-on implementations of the algorithms on standard Reinforcement Learning environments for debugging and pedagogical purposes. 
 
-| Enviornment  | Random Agent |
-| ------------- |------------- |
-| [Cart Pole](https://github.com/openai/gym/wiki/CartPole-v0) | ![Cart Pole](https://media.giphy.com/media/69pvRfohiQMSWzjn9A/giphy.gif)| 
-| [Pong](https://github.com/openai/gym/wiki/Leaderboard#pong-v0) | ![Pong](https://media.giphy.com/media/B1EfqKz0VjkZq4ZPRr/giphy.gif)| 
-| [Lunar Lander](https://github.com/openai/gym/wiki/Leaderboard#pong-v0) | ![Lunar Lander](https://media.giphy.com/media/1xNT1jP81eiLtkiWuI/giphy.gif)| 
-| [Mountain Car with Continuous Action Space](https://github.com/openai/gym/wiki/MountainCarContinuous-v0)| ![Continuous Mount Car](https://media.giphy.com/media/czMcAThaMUDi244p5R/giphy.gif)| 
-
-
 <h2 id='contents'> Outline</h2>
 
 | Topic / Slides  | Code Along | Case Study | Estimated Time |
@@ -36,7 +28,6 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 | Model Free Methods: Policy Gradients | Coming Soon | Coming Soon | 60 Minutes
 | Model Free Methods: PPO & A3C | Coming Soon |[Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) | 40 Minutes
 | Introduction to Ray & RLLib | Coming Soon | Coming Soon | 60-90 Minutes
-| **Bonus**: AlphaZero Code Along | Coming Soon | Coming Soon | Time Permitting
 
 
 
