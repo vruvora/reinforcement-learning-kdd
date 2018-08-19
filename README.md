@@ -31,7 +31,7 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 
 | Topic / Slides  | Code Along | Case Study | Estimated Time |
 | ------------- | ------------- | ------------ | ------------- |
-| [Markov Decision Processes & Planning Algorithms] (https://www.beautiful.ai/deck/-LJzCol9u_Me_W4MC-8C/Introduction-to-RL)  | | [Implementing Value and Policy Iteration] (https://github.com/vruvora/reinforcement-learning-kdd/blob/master/lesson-1-introduction-to-reinforcement-learning/planning-code-along-solution.ipynb) | [Optimizing Tax Collections to Save NY State Government $120-$150M over 3 Years] (https://www.prem-melville.com/publications/constrained-reinforcement-learning-kdd2010.pdf) 60 Minutes
+| [Markov Decision Processes & Planning Algorithms] (https://www.beautiful.ai/deck/-LJzCol9u_Me_W4MC-8C/Introduction-to-RL)  | [Implementing Value and Policy Iteration] (https://github.com/vruvora/reinforcement-learning-kdd/blob/master/lesson-1-introduction-to-reinforcement-learning/planning-code-along-solution.ipynb) | [Optimizing Tax Collections to Save NY State Government $120-$150M over 3 Years] (https://www.prem-melville.com/publications/constrained-reinforcement-learning-kdd2010.pdf) 60 Minutes
 | Model Free Methods: Q-Learning  | Coming Soon | Accelerating Photosynthesis, Optimizing Database Joins| 60 Minutes
 | Model Free Methods: Policy Gradients | Coming Soon | Coming Soon | 60 Minutes
 | Model Free Methods: PPO & A3C | Coming Soon | [Deep reinforcement learning for de novo drug design
