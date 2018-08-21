@@ -2,7 +2,7 @@
 
 # Table of Contents
 - [Overview](#overview)
-- [Enviornments](#enviornments)
+- [Environments](#environments)
 - [Outline](#contents)
 - [Installation & Prerequisites](#install)
 
@@ -11,11 +11,12 @@
 Reinforcement Learning is the _computational_ approach to learning from interaction (Sutton & Barto). Autonomous agents performing goal-oriented learning based on experience is the holy grail of AI. Recent successes of Reinforcement Learning algorithms include [human-level performance on many Atari games](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf), [beating world's best Go player](https://en.wikipedia.org/wiki/AlphaZero), and robots learning [dexterity](https://blog.openai.com/learning-dexterity/) and [grasping](https://arxiv.org/abs/1806.10293). Despite these successes, industrial applications of RL outside of organizations with easy access to large-scale compute and software infrastructure remain sparse. Wide-spread applications of RL require more sample efficient algorithms and new software tools for doing distributed computing. Our goal with this tutorial is two-fold:
 
 >Provide a solid conceptual foundation for understanding and evaluating the existing state of the art RL methods (both strengths and weaknesses).
+
 >Showcase Ray, an emerging distributed execution framework, for experimenting with and deploying large-scale Reinforcement Learning algorithms.
 
 We believe that RL works well on applied problems where: 1.) Gathering simulations and experience is cheap, e.g. games, narrow-domain robotics; 2.) Modellers have access to a compact representation of the environment dynamics to apply approximate dynamic programming. During the tutorial, we will also deep-dive into practical applications of RL such as [optimizing tax collections with constrained value iteration](https://www.youtube.com/watch?v=bLsCuN6PQCE), [predicting market micro-structure for better trade execution](https://www.seas.upenn.edu/~mkearns/papers/rlexec.pdf), and others alike. 
 
-## Enviornments
+## Environments
 
 While portions of the tutorial will focus on conceptual foundations and applied case studies, we will do hands-on implementations of the algorithms on standard Reinforcement Learning environments for debugging and pedagogical purposes. 
 
@@ -23,11 +24,13 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 
 | Topic / Slides  | Code Along | Case Study | Estimated Time |
 | ------------- | ------------- | ------------ | ------------- |
-| [Markov Decision Processes & Planning Algorithms](https://www.beautiful.ai/deck/-LJzCol9u_Me_W4MC-8C/Introduction-to-RL)  | [Implementing Value and Policy Iteration](https://github.com/vruvora/reinforcement-learning-kdd/blob/master/lesson-1-introduction-to-reinforcement-learning/planning-code-along-solution.ipynb) | [Optimizing Tax Collections to Save NY State Government $120-$150M over 3 Years](https://www.prem-melville.com/publications/constrained-reinforcement-learning-kdd2010.pdf) | 60 Minutes
-| Model Free Methods: Q-Learning  | Coming Soon | Optimizing Database Joins| 60 Minutes
-| Model Free Methods: Policy Gradients | Coming Soon | Coming Soon | 60 Minutes
-| Model Free Methods: PPO & A3C | Coming Soon |[Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) | 40 Minutes
-| Introduction to Ray & RLLib | Coming Soon | Coming Soon | 60-90 Minutes
+| [Installation](https://github.com/vruvora/reinforcement-learning-kdd#install) | - | - | 8.30AM-9.00AM
+| [Markov Decision Processes & Planning Algorithms](https://www.beautiful.ai/deck/-LJzCol9u_Me_W4MC-8C/Introduction-to-RL)  | [Implementing Value and Policy Iteration](https://github.com/vruvora/reinforcement-learning-kdd/blob/master/lesson-1-introduction-to-reinforcement-learning/planning-code-along-solution.ipynb) | [Optimizing Tax Collections to Save NY State Government $120-$150M over 3 Years](https://www.prem-melville.com/publications/constrained-reinforcement-learning-kdd2010.pdf) | 9.00AM-10.0AM
+| Model Free Methods: Q-Learning  | Coming Soon | [Reinforcement Learning for Skip Lists: A Case Study in Building Simulators from the Groundup](https://github.com/cioc/rlsl) & [Learning to Optimize Database Joins](https://arxiv.org/abs/1808.03196?context=cs)| 10.15AM-11.30AM
+| Model Free Methods: Policy Gradients, Reinforce, TRPO, PPO, and A3C (Part I) | Coming Soon | [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) | 11.30AM-12.30PM
+| Lunch | - | - | 12.30PM-1.30PM
+| Model Free Methods: Policy Gradients, Reinforce, TRPO, PPO, and A3C (Part II) | Coming Soon | [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) | - | 1.30PM-2.30PM
+| Introduction to Ray & RLLib | Coming Soon | Coming Soon | 2.30PM-4.30PM
 
 
 
