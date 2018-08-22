@@ -37,8 +37,12 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 <h2 id='install'> Installation & Prerequisites </h2>
 
 ### Installation
-#### Option 1: JupyterHub
-We will set up a JupyterHub OAuth for the workshop which will be available for attendees to register into with their GitHub account. 
+#### Option 1: [JupyterHub](
+Log-In with your JupyterHub at https://appliedrl.hubhero.net/.
+Notes: 
+ - On First Login, wait a bit (around 5-10 mins). The UI doesn't give instant feedback. 
+ - Don't edit the solutions. Edit the starter code notebooks. If you do edit the solutions, I'd recommend users copy the notebooks over to their home directory if they want to edit them. The git puller will _not_ update a file that has been locally modified, so if you modify notebooks you will have to tell them to copy & delete it if they want to get a newer version. This shouldn't be that big of a deal :)
+
 
 #### Option 2: Installations your own Computer 
 - Create a directory for this workshop with `mkdir rl-kdd`.
