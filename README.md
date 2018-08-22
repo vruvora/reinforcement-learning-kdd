@@ -37,7 +37,7 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 <h2 id='install'> Installation & Prerequisites </h2>
 
 ### Installation
-#### Option 1: [JupyterHub](
+#### Option 1: JupyterHub
 Log-In with your JupyterHub at https://appliedrl.hubhero.net/.
 Notes: 
  - On First Login, wait a bit (around 5-10 mins). The UI doesn't give instant feedback. 
@@ -45,6 +45,8 @@ Notes:
 
 
 #### Option 2: Installations your own Computer 
+If JupyterHub is not working for you for any reasons, try out the manual installation on your computer. Windows not suppered currently. 
+
 - Create a directory for this workshop with `mkdir rl-kdd`.
 - `cd` into your `rl-kdd` directory. Create a `virtualenv` associated with the tutorial. Checkout more detailed instructions for OS specific `virtualenv` creation [here](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/).
 - Activate the previously created `virtualenv`. 
