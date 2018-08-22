@@ -29,7 +29,7 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 | Model Free Methods: Q-Learning  | Coming Soon | *Case Study*: [Deep Q-Learning for Supply Chain Optimization](https://arxiv.org/pdf/1708.05924.pdf); *Exciting Up and Coming Applications*:[ Reinforcement Learning for Skip Lists: A Case Study in Building Simulators from the Groundup](https://github.com/cioc/rlsl) & [Learning to Optimize Database Joins](https://arxiv.org/abs/1808.03196?context=cs)| 10.15AM-11.30AM
 | Model Free Methods: Policy Gradients, Reinforce, TRPO, PPO, and A3C (Part I) | Coming Soon | [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) | 11.30AM-12.30PM
 | Lunch | - | - | 12.30PM-1.30PM
-| Model Free Methods: Policy Gradients, Reinforce, TRPO, PPO, and A3C (Part II) | Coming Soon | [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) | - | 1.30PM-2.30PM
+| Model Free Methods: Policy Gradients, Reinforce, TRPO, PPO, and A3C (Part II) | Coming Soon | [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) | 1.30PM-2.30PM
 | Introduction to Ray & RLLib | Coming Soon | Coming Soon | 2.30PM-4.30PM
 
 
