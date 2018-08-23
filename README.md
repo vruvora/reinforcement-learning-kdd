@@ -26,10 +26,10 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 | ------------- | ------------- | ------------ | ------------- |
 | [Installation](https://github.com/vruvora/reinforcement-learning-kdd#install) | - | - | 8.30AM-9.00AM
 | [Markov Decision Processes & Planning Algorithms](https://www.beautiful.ai/deck/-LJzCol9u_Me_W4MC-8C/Introduction-to-RL)  | [Implementing Value and Policy Iteration](https://github.com/vruvora/reinforcement-learning-kdd/tree/master/lesson-1-planning-in-mdps) | [Optimizing Tax Collections to Save NY State Government $120-$150M over 3 Years](https://www.prem-melville.com/publications/constrained-reinforcement-learning-kdd2010.pdf) | 9.00AM-10.0AM
-| Model Free Methods: Q-Learning  | Coming Soon | [Reinforcement Learning for Skip Lists: A Case Study in Building Simulators from the Groundup](https://github.com/cioc/rlsl) & [Learning to Optimize Database Joins](https://arxiv.org/abs/1808.03196?context=cs)| 10.15AM-11.30AM
+| Model Free Methods: Q-Learning  | Coming Soon | *Case Study*: [Deep Q-Learning for Supply Chain Optimization](https://arxiv.org/pdf/1708.05924.pdf); *Exciting Up and Coming Applications*:[ Reinforcement Learning for Skip Lists: A Case Study in Building Simulators from the Groundup](https://github.com/cioc/rlsl) & [Learning to Optimize Database Joins](https://arxiv.org/abs/1808.03196?context=cs)| 10.15AM-11.30AM
 | Model Free Methods: Policy Gradients, Reinforce, TRPO, PPO, and A3C (Part I) | Coming Soon | [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) | 11.30AM-12.30PM
 | Lunch | - | - | 12.30PM-1.30PM
-| Model Free Methods: Policy Gradients, Reinforce, TRPO, PPO, and A3C (Part II) | Coming Soon | [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) | - | 1.30PM-2.30PM
+| Model Free Methods: Policy Gradients, Reinforce, TRPO, PPO, and A3C (Part II) | Coming Soon | [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) | 1.30PM-2.30PM
 | Introduction to Ray & RLLib | Coming Soon | Coming Soon | 2.30PM-4.30PM
 
 
@@ -38,9 +38,15 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 
 ### Installation
 #### Option 1: JupyterHub
-We will set up a JupyterHub OAuth for the workshop which will be available for attendees to register into with their GitHub account. 
+Log-In with your JupyterHub at https://appliedrl.hubhero.net/.
+Notes: 
+ - On First Login, wait a bit (around 5-10 mins). The UI doesn't give instant feedback. 
+ - Don't edit the solutions. Edit the starter code notebooks. If you do edit the solutions, I'd recommend users copy the notebooks over to their home directory if they want to edit them. The git puller will _not_ update a file that has been locally modified, so if you modify notebooks you will have to tell them to copy & delete it if they want to get a newer version. This shouldn't be that big of a deal :)
+
 
 #### Option 2: Installations your own Computer 
+If JupyterHub is not working for you for any reasons, try out the manual installation on your computer. Windows not suppered currently. 
+
 - Create a directory for this workshop with `mkdir rl-kdd`.
 - `cd` into your `rl-kdd` directory. Create a `virtualenv` associated with the tutorial. Checkout more detailed instructions for OS specific `virtualenv` creation [here](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/).
 - Activate the previously created `virtualenv`. 
