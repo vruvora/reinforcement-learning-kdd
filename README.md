@@ -44,6 +44,8 @@ Notes:
  - On First Login, wait a bit (around 5-10 mins). The UI doesn't give instant feedback. 
  - Don't edit the solutions. Edit the starter code notebooks. If you do edit the solutions, I'd recommend users copy the notebooks over to their home directory if they want to edit them. The git puller will _not_ update a file that has been locally modified, so if you modify notebooks you will have to tell them to copy & delete it if they want to get a newer version. This shouldn't be that big of a deal :)
 
+Once you are into the Hub, open up terminal and `pip install matplotlib` and `pip install seaborn`.
+
 
 #### Option 2: Installations your own Computer 
 If JupyterHub is not working for you for any reasons, try out the manual installation on your computer. Windows not suppered currently. 
