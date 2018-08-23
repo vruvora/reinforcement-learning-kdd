@@ -5,6 +5,7 @@
 - [Environments](#environments)
 - [Outline](#contents)
 - [Installation & Prerequisites](#install)
+- [References & Acknowledgements](#references)
 
 
 ## Overview 
@@ -61,3 +62,9 @@ _Side Note: Make sure you are using `python 3.6.4`_
 
 ### Prerequisites 
 This tutorial will require a solid foundations in Machine Learning, Python Programming, and basic familiarity with popular Deep Learning frameworks like Tensorflow and Torch. 
+
+### References 
+- [ray-project](https://github.com/ray-project/)
+- [pytorch](https://pytorch.org/)
+- [David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
