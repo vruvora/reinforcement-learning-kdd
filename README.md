@@ -31,7 +31,7 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 | [Model Free Methods: Q-Learning](https://www.beautiful.ai/deck/-LKWloulbie7-cDbWB7S/Introduction-to-RL-Q-Learning)  | [Q-Learning Walkthrough](https://github.com/vruvora/reinforcement-learning-kdd/tree/master/lesson-2-introduction-to-q-learning) | *Case Study*: [Deep Q-Learning for Supply Chain Optimization](https://arxiv.org/pdf/1708.05924.pdf); *Exciting Up and Coming Applications*:[ Reinforcement Learning for Skip Lists: A Case Study in Building Simulators from the Groundup](https://github.com/cioc/rlsl) & [Learning to Optimize Database Joins](https://arxiv.org/abs/1808.03196?context=cs)| 11.00AM-12.00PM
 | Lunch | - | - | 12.30PM-1.30PM
 | [Model Free Methods: Policy Gradients, Reinforce, TRPO, PPO, and Actor-Critic](https://www.beautiful.ai/deck/-LJzCol9u_Me_W4MC-8C/Introduction-to-RL-Policy-Gradients) |  [Implementing Policy Gradients and PPO](https://github.com/vruvora/reinforcement-learning-kdd/tree/master/lesson-3-policy-gradients)| [Deep reinforcement learning for de novo drug design](http://advances.sciencemag.org/content/4/7/eaap7885) | 1.30AM-3.30PM
-| Introduction to Ray & RLLib | Coming Soon | Coming Soon | 3.30PM-5.30PM (Might Conflict with Closing Ceremony)
+| Introduction to Ray & RLLib | [Ray Exercises and Tutorial](https://github.com/vruvora/reinforcement-learning-kdd) | - | 3.30PM-5.30PM (Might Conflict with Closing Ceremony)
 
 
 
