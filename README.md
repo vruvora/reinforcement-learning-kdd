@@ -54,7 +54,7 @@ While portions of the tutorial will focus on conceptual foundations and applied 
 _Side Note: Make sure you are using `python 3.6.4`_
 
 #### Option 2: JupyterHub
-If personal computer is not working for you for any reasons, try out the manual installation on your computer. Windows not suppered currently. 
+If personal computer is not working for you for any reasons, try out JupyterHub. Windows not supported for Ray so if you have windows then JupyterHub is the default. 
 
 Log-In with your JupyterHub at https://appliedrl.hubhero.net/.
 Notes: 
